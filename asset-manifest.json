@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rework-elearning-app/static/css/main.9ac62611.css",
+    "main.js": "/rework-elearning-app/static/js/main.ebd7333e.js",
+    "static/media/about.png": "/rework-elearning-app/static/media/about.14625968c5aeb34d371a.png",
+    "static/media/hs2-img.png": "/rework-elearning-app/static/media/hs2-img.b7fc12f9c9ddddbaf027.png",
+    "static/media/hs9-img.png": "/rework-elearning-app/static/media/hs9-img.82a570ccb008186c58d5.png",
+    "static/media/course-bg.png": "/rework-elearning-app/static/media/course-bg.03c3543bd2214d119ad7.png",
+    "static/media/hs10-img.png": "/rework-elearning-app/static/media/hs10-img.11101fde7711834e1d30.png",
+    "static/media/Bright-Abu.png": "/rework-elearning-app/static/media/Bright-Abu.97407f28f0fc3d1618d9.png",
+    "static/media/Emmanuel-Omolewu.png": "/rework-elearning-app/static/media/Emmanuel-Omolewu.5de26a848e35092d2666.png",
+    "static/media/banner-img.png": "/rework-elearning-app/static/media/banner-img.d0cbce606139284115d2.png",
+    "static/media/splash.svg": "/rework-elearning-app/static/media/splash.02f4736e35c9021882e8.svg",
+    "static/media/hs7-img.png": "/rework-elearning-app/static/media/hs7-img.7c2f84b2353107a1c1e6.png",
+    "static/media/hs6-img.png": "/rework-elearning-app/static/media/hs6-img.9fd0b9b137b19973d81c.png",
+    "static/media/FredokaOne-Regular.ttf": "/rework-elearning-app/static/media/FredokaOne-Regular.5e19f05c9f5dab094c8b.ttf",
+    "static/media/oji-innocent.jpg": "/rework-elearning-app/static/media/oji-innocent.73267fb3e7100341ef60.jpg",
+    "static/media/Rework-Academy-Logo.png": "/rework-elearning-app/static/media/Rework-Academy-Logo.b4405be47a3f4410799d.png",
+    "static/media/course-video-bg.png": "/rework-elearning-app/static/media/course-video-bg.5381249937ac897170ec.png",
+    "static/media/logo.png": "/rework-elearning-app/static/media/logo.fa8fb2ae66c704a90720.png",
+    "static/media/blob.svg": "/rework-elearning-app/static/media/blob.75718abbc71fda027845.svg",
+    "index.html": "/rework-elearning-app/index.html",
+    "static/media/instructor-led.svg": "/rework-elearning-app/static/media/instructor-led.1d261c70f02370a0a91907598c11df61.svg",
+    "static/media/hs3-img2.svg": "/rework-elearning-app/static/media/hs3-img2.6b8b3f7e52bba0fb7e7747887586c140.svg",
+    "static/media/hs3-img1.svg": "/rework-elearning-app/static/media/hs3-img1.9a9237e54b913f555372fb0c5a112ee7.svg",
+    "main.9ac62611.css.map": "/rework-elearning-app/static/css/main.9ac62611.css.map",
+    "main.ebd7333e.js.map": "/rework-elearning-app/static/js/main.ebd7333e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac62611.css",
+    "static/js/main.ebd7333e.js"
+  ]
+}
