@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rework-elearning-app/static/css/main.a360753d.css",
-    "main.js": "/rework-elearning-app/static/js/main.80577818.js",
+    "main.css": "/rework-elearning-app/static/css/main.e4c2ad80.css",
+    "main.js": "/rework-elearning-app/static/js/main.bbbbc166.js",
     "static/media/about.png": "/rework-elearning-app/static/media/about.14625968c5aeb34d371a.png",
     "static/media/hs2-img.png": "/rework-elearning-app/static/media/hs2-img.b7fc12f9c9ddddbaf027.png",
     "static/media/hs9-img.png": "/rework-elearning-app/static/media/hs9-img.82a570ccb008186c58d5.png",
@@ -22,11 +22,11 @@
     "static/media/instructor-led.svg": "/rework-elearning-app/static/media/instructor-led.1d261c70f02370a0a91907598c11df61.svg",
     "static/media/hs3-img2.svg": "/rework-elearning-app/static/media/hs3-img2.6b8b3f7e52bba0fb7e7747887586c140.svg",
     "static/media/hs3-img1.svg": "/rework-elearning-app/static/media/hs3-img1.9a9237e54b913f555372fb0c5a112ee7.svg",
-    "main.a360753d.css.map": "/rework-elearning-app/static/css/main.a360753d.css.map",
-    "main.80577818.js.map": "/rework-elearning-app/static/js/main.80577818.js.map"
+    "main.e4c2ad80.css.map": "/rework-elearning-app/static/css/main.e4c2ad80.css.map",
+    "main.bbbbc166.js.map": "/rework-elearning-app/static/js/main.bbbbc166.js.map"
   },
   "entrypoints": [
-    "static/css/main.a360753d.css",
-    "static/js/main.80577818.js"
+    "static/css/main.e4c2ad80.css",
+    "static/js/main.bbbbc166.js"
   ]
 }
